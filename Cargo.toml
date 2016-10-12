@@ -1,0 +1,7 @@
+[package]
+authors = ["Hendrik Sollich <hendrik@hoodie.de>"]
+name = "translate"
+version = "0.1.0"
+
+[dependencies]
+xml-rs = "*"
